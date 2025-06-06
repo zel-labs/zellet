@@ -1,37 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<p align="center">
+  <img src="https://github.com/zel-labs/zellet/blob/main/public/img/center-logo.png?raw=true" />
+</p>
 
-## Getting Started
+## Zellet : Zelonis Blockchain Web Wallet
+Zellet is a modern, secure, and user-friendly wallet purpose-built for ZELONIS, a next-generation blockchain designed to power scalable, decentralized applications and digital economies. As the official wallet of the ZELONIS network, Zellet serves as the essential gateway for users to store, manage, and interact with digital assets across the growing ZELONIS ecosystem.
 
-First, run the development server:
+Built for both newcomers and crypto veterans, Zellet offers an elegant and intuitive interface without compromising on security. As a fully non-custodial wallet, it ensures that users retain complete control over their private keys and funds. Whether you're transferring ZELONIS-native tokens, managing NFTs, participating in governance, or accessing dApps, Zellet makes the experience seamless and secure.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# zellet
+More than just a wallet, Zellet is the core companion for life on ZELONIS—empowering users to explore decentralized finance, gaming, identity, and more. With built-in staking, real-time asset tracking, and dApp integration, Zellet provides everything needed to thrive in the decentralized world.
