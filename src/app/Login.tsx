@@ -1,6 +1,6 @@
 import dynamic from 'next/dynamic'
 import Image from "next/image";
-import { useState,useRef } from 'react'
+import { useState,useRef, useEffect } from 'react'
 const HomePage = dynamic(() => import('./HomePage'))
 const DashPage = dynamic(() => import('./DashPage'))
 export default function LoginPage() {
@@ -8,6 +8,8 @@ export default function LoginPage() {
     const [dashPage, setDashPage] =useState(false)
     const passRef = useRef<HTMLInputElement>(null)
     
+    
+
     function OpenHome(){
         const el = document.getElementById('login-page')
         if (el) {

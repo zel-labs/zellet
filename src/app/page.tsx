@@ -24,7 +24,7 @@ export default function Home() {
   },[])
   return (
     <>
-    <div className="w-screen bg-[#1f1f1f] h-screen p-4">
+    <div className="w-screen bg-[#1f1f1f] h-[100vh] p-4 box-border">
       <Image src="/img/top-logo.png" alt="Zellet" width={127} height={30} />
         {homePage && <HomePage />}  
         

@@ -18,7 +18,7 @@ export default function HomePage() {
     <>
     
     <div className="w-full h-full flex justify-center align-middle" id="home-page">
-        <div className="bg-[#000000] w-[430px] h-[510px] self-center rounded-lg relative" id="homePage">
+        <div className="bg-[#000000] w-[430px] max- h-[510px] self-center rounded-lg relative" id="homePage">
           <div className="mt-30 w-full text-center mb-10 ">
             <Image src="/img/center-logo.png" className="m-auto"  alt="Zellet" width={201} height={50}/>
           </div>

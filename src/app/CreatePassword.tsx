@@ -11,7 +11,8 @@ export default function CreatePassword() {
   const passRef = useRef<HTMLInputElement>(null)
   const confirmPassRef = useRef<HTMLInputElement>(null)
   const [terms, setTerms] = useState(false)
-
+  
+  
   const handleClick = () => {
     const pass = passRef.current?.value
     const cpass = confirmPassRef.current?.value
